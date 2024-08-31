@@ -120,7 +120,7 @@ function App() {
         <h2 id='time-left'>{timeFormatter()}</h2>
       </div>
       <div id="adjusting">
-        <button onClick={handlePlay} id="start_stop">start</button>
+        <button onClick={handlePlay} id="start_stop">start/stop</button>
         <button onClick={handleReset} id="reset">reset</button>
       </div>
       <q id="quote">Long term consistency beats short term intensity</q>

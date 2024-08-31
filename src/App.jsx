@@ -125,7 +125,7 @@ function App() {
       </div>
       <q id="quote">Long term consistency beats short term intensity</q>
       <p>-Bruce Lee</p>
-      <audio id='beep' preload='auto' src='https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/audio/BeepSound.wav' />
+      <audio id="beep" preload="auto" src="https://raw.githubusercontent.com/freeCodeCamp/cdn/master/build/testable-projects-fcc/audio/BeepSound.wav" />
     </div>
   )
 }
